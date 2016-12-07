@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+body {
+	background-color: #DDDDDD;
+}
+.menu-lateral{
+	border: 2px solid #555555;	
+	background-color: #AAAAAA;
+	padding: -10px;
+	padding-bottom: 25px;
+	left: -15px;
+}
+
+.menu-lateral h2{
+	border-bottom: 2px solid #555555;	
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.menu-titulo{
+	border: 2px solid #555555;	
+	background-color: #AAAAAA;
+	height: 175px;
+	padding-top:30px;
+}
+
+.menu-titulo h1{
+	font-family: 'Pacifico', cursive;
+	font-size: 55px;
+	vertical-align:middle;
+}
+
+.btn-deslogar{
+	font-size: 16px;
+	margin:auto;
+	padding-top:40px;
+	
+}
+.conteudo-titulo{
+	font-size:50px;
+	text-align:center;
+}
+.radio-data-extrato label{
+	padding-right: 30px;
+	font-size:20px;
+}
+
+.table-extrato{
+	margin-top:30px;
+}
+
+.conteudo-saque button{
+	margin-bottom: 20px;	
+}
+
+.conteudo-saque .botao-direito{
+	text-align: right;	
+}
+
+.conteudo-saque .botao-meio{
+	text-align: center;	
+	margin-top: 70px;	
+}

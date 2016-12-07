@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: #DDDDDD;
+}
+
+.titulo-principal-index {
+	margin-bottom: 50px;
+	font-size: 72px;
+}
+
+.imagem-logotipo-index {
+	margin: auto;
+}
+
+.btn-logar {
+	height: 100px;
+	padding-top:50px;
+}
+
